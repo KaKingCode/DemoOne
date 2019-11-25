@@ -4,7 +4,7 @@
  */
 public class Demo9 {
     public int JumpFloorII(int target) {
-
+        System.out.print(23121);
+        return 0;
     }
 }
-DIM_PRODUCT_CONFIG_INFO
